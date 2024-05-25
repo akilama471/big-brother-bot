@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<B3Status Time="Sun Oct 24 21:35:02 2021">
+    <Game CaptureLimit="" FragLimit="" Ip="103.6.168.29" Map="mp_crossfire" MapTime="526" Name="cod4" OnlinePlayers="1"
+          Port="28960" RoundTime="526" Rounds="25" TimeLimit="" Type="war">
+        <Data Name="protocol" Value="20"/>
+        <Data Name="gameName" Value="cod4"/>
+        <Data Name="sv_privateClients" Value="0"/>
+        <Data Name="_ModUpdate" Value="Yes"/>
+        <Data Name="sv_maxRate" Value="25000"/>
+        <Data Name="_mapTimeStart" Value="1635090976"/>
+        <Data Name="rounds" Value="25"/>
+        <Data Name="_mapName" Value="mp_crossfire"/>
+        <Data Name="sv_disableClientConsole" Value="0"/>
+        <Data Name="uptime" Value="9 hours"/>
+        <Data Name="_Email" Value="akarisquad1@gmail.com"/>
+        <Data Name="console" Value="&lt;b3.parsers.cod4x18.Cod4X18Parser object at 0x7fe1406f4b90&gt;"/>
+        <Data Name="gamename" Value="Call of Duty 4"/>
+        <Data Name="version" Value="CoD4 X - linux-i386 build 1104 Aug  1 2021"/>
+        <Data Name="build" Value="1104"/>
+        <Data Name="branch" Value="master"/>
+        <Data Name="sv_pure" Value="1"/>
+        <Data Name="_roundTimeStart" Value="1635090976"/>
+        <Data Name="_Mod" Value="PROMOD LK"/>
+        <Data Name="_CoD4 X Site" Value="http://cod4x.me"/>
+        <Data Name="revision" Value="221ed778c639d80bb42f267c39f5165c183e66c9"/>
+        <Data Name="sv_voice" Value="1"/>
+        <Data Name="modName" Value="mods/^1akari_^3squad_^5tdm_^2v4"/>
+        <Data Name="_ModVer" Value="v4.0"/>
+        <Data Name="sv_minPing" Value="0"/>
+        <Data Name="_TeamSpeak3" Value="ts.akarisquad.com"/>
+        <Data Name="_Type" Value="Team Deathmatch"/>
+        <Data Name="sv_maxclients" Value="32"/>
+        <Data Name="sv_hostname" Value="^1AKARI ^3SQUAD ^5TDM ^3Promod ^2|REMASTERED|"/>
+        <Data Name="sv_floodprotect" Value="4"/>
+        <Data Name="_Location" Value="SRI LANKA"/>
+        <Data Name="g_compassShowEnemies" Value="0"/>
+        <Data Name="g_mapStartTime" Value="Sun Oct 24 21:26:14 2021"/>
+        <Data Name="_Website" Value="www.akirasquad.com"/>
+        <Data Name="gameType" Value="war"/>
+        <Data Name="_Admin" Value="|AKR|SICO"/>
+        <Data Name="shortversion" Value="-"/>
+        <Data Name="g_logTimeStampInSeconds" Value="0"/>
+        <Data Name="sv_maxPing" Value="900"/>
+        <Data Name="_Maps" Value="COD4 Stock"/>
+    </Game>
+    <Clients Total="1">
+        <Client CID="0" ColorName="WASIF^7" Connections="1" DBID="7" GUID="2310346617013944187" IP="39.45.28.57"
+                Joined="Sun Oct 24 21:34:49 2021" Level="0" Name="WASIF" PBID="" Score="0" State="2" Team="-1"
+                Updated="Sun Oct 24 21:34:49 2021">
+            <Data Name="codguid" Value="2310346617013944187"/>
+        </Client>
+    </Clients>
+</B3Status>

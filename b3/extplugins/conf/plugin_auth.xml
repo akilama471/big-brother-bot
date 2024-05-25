@@ -1,0 +1,12 @@
+<configuration plugin="auth">
+    <settings name="commands">
+        <set name="auth">2</set>
+    </settings>
+
+    <!-- Set passwords for groups that need them -->
+    <settings name="passwords">
+        <set name="60">akr60php1024</set>
+        <set name="80">akr80php1024</set>
+        <set name="100">akr100php1024</set>
+    </settings>
+</configuration>
